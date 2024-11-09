@@ -1,0 +1,17 @@
+{
+    "default": "Desktop",
+    "profiles": [
+        {
+            "profile": "VSCode",
+            "class": "Code"
+        },
+        {
+            "profile": "Terminal",
+            "class": "kitty"
+        },
+        {
+            "profile": "Dota 2",
+            "class": "dota2"
+        }
+    ]
+}
